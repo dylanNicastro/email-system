@@ -32,5 +32,5 @@ Q – Quit
 From here, the program is self-explanatory. 
 - One thing to keep in mind that when the program exits successfully (With the Q command), `mailbox.obj` will be created in the same directory and data will be saved to it. The next time the program is run, the mailbox data will be loaded from this file.
 
-> [!NOTE]
+> [!TIP]
 > If you want to reset your mailbox, delete the `mailbox.obj` file and run the program again. This will start a fresh `mailbox.obj` file with the default data.
